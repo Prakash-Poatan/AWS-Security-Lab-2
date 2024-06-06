@@ -2,8 +2,7 @@
 This terraform project deploy EKS,EC2,S3,IAM and VPC without security best practices. This environement can be used to show the importance of cloud security posture management and cloud worload protection solutions. Do not use this project on a production environement
 
 # Topology
-![Screenshot]([topology.PNG](https://github.com/WS-Prakash/AWS-Security-Lab/blob/a4a62e3d6e35fac2bd10081f5d09bd63413a72eb/topology.PNG))
-
+![topology](https://github.com/WS-Prakash/AWS-Security-Sandbox/assets/102661806/1a1a40d9-c83e-4428-abbd-cf30dcacffe2)
 
 
 # Requirement
